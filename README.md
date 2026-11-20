@@ -2,7 +2,7 @@
 
 My personal site: backend and machine learning work, my time at Quocreo on Wexxaro and Prospeaker, projects, experience and certificates.
 
-Live at **https://ugbomah-d.github.io/html-portfolio/**
+Live at **https://ugbomah-d.github.io/portfolio/**
 
 ## Stack
 
