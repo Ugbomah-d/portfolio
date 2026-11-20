@@ -21,7 +21,7 @@ export const nav = [
 ];
 
 export const hero = {
-  role: 'Software engineer, backend and machine learning',
+  role: 'Software Engineer, Backend and Machine Learning',
   first: 'Daniel Timinepre',
   last: 'Ugbomah',
   intro:
