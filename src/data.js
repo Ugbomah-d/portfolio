@@ -30,7 +30,7 @@ export const hero = {
 
 export const facts = [
   { label: 'Based in', value: 'Abuja, Nigeria' },
-  { label: 'Education', value: 'B.Sc. Software Engineering, Babcock University, CGPA 4.49/5' },
+  { label: 'Education', value: 'B.Sc. Software Engineering, Babcock University' },
   { label: 'Availability', value: 'Open to NYSC placement and relocation' },
 ];
 
@@ -158,7 +158,7 @@ export const skills = [
 ];
 
 export const experience = [
-  { when: '2022', title: 'Started at Babcock University', text: 'B.Sc. Software Engineering. Data structures, databases, networks, web development and security fundamentals. CGPA 4.49 of 5.0.' },
+  { when: '2022', title: 'Started at Babcock University', text: 'B.Sc. Software Engineering. Data structures, databases, networks, web development and security fundamentals.' },
   { when: '2023', title: 'Began Building Independently', text: 'Personal projects in backend development, authentication and database design. Took part in Hacktoberfest.' },
   { when: 'Mar 2026', title: 'Beyond the Rails Hackathon', text: 'Interswitch Developer Community and Enyata. Four days building across fintech, health and agriculture, with demo day in April.' },
   { when: 'Apr 2026', title: 'Software Engineering Intern, Babcock University Press', text: "Reviewed the press's web presence against international publishing standards, ran a stakeholder questionnaire, and wrote a three-phase plan to close the gaps." },
